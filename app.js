@@ -6,4 +6,4 @@ for (let i = 1; i <= number; i++) {
 }
 
 console.log(sum)
-// test追記
+// test追記2
